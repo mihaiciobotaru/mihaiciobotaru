@@ -7,7 +7,7 @@
 - 😄 I’m familiar with Javascript. 
 - 📚 I’m looking to learn about AI, game development and networking.
 - 📫 How to reach me: mihai2096@gmail.com.
-- ⚡ Fun fact: My favorite tv show is Breaking Bad.
+- ⚡ Fun fact: My favorite TV show is Breaking Bad.
 
 Following is my github stats
   
