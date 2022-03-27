@@ -20,22 +20,17 @@
 # Projects: 
 
 <a href="https://github.com/mihai2096/ChessGame">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mihai2096&repo=ChessGame&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=ChessGame&theme=dark" align = "center" />
 </a>
-
 <a href="https://github.com/mihai2096/Electron">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mihai2096&repo=Electron&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=Electron&theme=dark" align = "center" />
 </a>
-
 <a href="https://github.com/mihai2096/Towing-Site">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mihai2096&repo=Towing-Site&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=Towing-Site&theme=dark"/>
 </a>
-
 <a href="https://github.com/mihai2096/Genetic-Algorithms">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mihai2096&repo=Genetic-Algorithms&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=Genetic-Algorithms&theme=dark"  />
 </a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 
 # How to reach me:
 
