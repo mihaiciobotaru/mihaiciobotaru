@@ -7,7 +7,7 @@
 - 😄 I’m familiar with Javascript, genetic and heuristic search algorithms. 
 - 📚 I’m looking forward to learn more about AI, game development, arduino and computer networking.
 - 📫 My email: mihai2096@gmail.com.
-- ⚡ Fun fact: My favorite TV show is Breaking Bad.
+- ⚡ Fun fact: I'm a certified accountant.
 
 # My github stats:
 
