@@ -2,7 +2,7 @@
 
 - 🏫 I’m a university student, second year, at Universitatea Alexandru Ioan Cuza Iasi, Facultatea de Informatica.
 - 🔭 I’m currently working on ParkingLot.
-- 🌱 I’m currently learning Java, Java Spring, Oracle Database, PHP.
+- 🌱 I’m currently learning Java, Java Spring, PLSQL, PHP.
 - 💪 I’ve worked mostly with C, C++, HTML, CSS, SFML.
 - 😄 I’m familiar with Javascript, genetic and heuristic search algorithms. 
 - 📚 I’m looking forward to learn more about AI, game development, arduino and computer networking.
