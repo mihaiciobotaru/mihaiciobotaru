@@ -1,6 +1,6 @@
 <h1>Hi, welcome to my profile 👋</h1>
 
-- 🏫 I’m a university student, second year, at Universitatea Alexandru Ioan Cuza Iasi, Facultatea de Informatica.
+- 🏫 I’m an university student, second year, at Universitatea Alexandru Ioan Cuza Iasi, Facultatea de Informatica.
 - 🔭 I’m currently working on ParkingLot.
 - 🌱 I’m currently learning Java, Java Spring, PLSQL, PHP.
 - 💪 I’ve worked mostly with C, C++, HTML, CSS, SFML.
