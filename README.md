@@ -9,7 +9,7 @@
 - 👯 My personal website: www.mihaiciobotaru.com .
 - ⚡ Fun fact: I'm a certified accountant.
 
-    <img src = "Assets/mihaiwebsitemockup.png" width = "auto" height = "500px" style="" />
+    <img src = "Assets/mihaiwebsitemockup.png" width = "auto" height = "80%" style="" />
 
 
 # My github stats:
@@ -23,16 +23,16 @@
 # Projects: 
 
 <a href="https://github.com/mihai2096/ChessGame">
-     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=ChessGame&theme=dark" align = "center" />
+     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=ChessGame&theme=dark" align = "center" />
 </a>
 <a href="https://github.com/mihai2096/Electron">
-     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=Electron&theme=dark" align = "center" />
+     <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=Electron&theme=dark" align = "center" />
 </a>
 <a href="https://github.com/mihai2096/Towing-Site">
- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=Towing-Site&theme=dark"/>
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=Towing-Site&theme=dark"/>
 </a>
 <a href="https://github.com/mihai2096/Genetic-Algorithms">
- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihai2096&repo=Genetic-Algorithms&theme=dark"  />
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=Genetic-Algorithms&theme=dark"  />
 </a>
 
 # How to reach me:
