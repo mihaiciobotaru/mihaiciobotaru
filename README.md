@@ -9,7 +9,8 @@
 - 👯 My personal website: www.mihaiciobotaru.com .
 - ⚡ Fun fact: I'm a certified accountant.
 
-![alt text](https://www.mihaiciobotaru.com/assets/mihaiwebsitemockup.png)
+    <img src = "Assets/mihaiwebsitemockup.png" width = "auto" height = "50px" />
+
 
 # My github stats:
 
