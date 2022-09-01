@@ -22,16 +22,16 @@
 
 # Projects: 
 <a href="https://github.com/mihai2096/sienamarketing">
- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=Genetic-Algorithms&theme=dark"  />
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=sienamarketing&theme=dark"  />
 </a>
 <a href="https://github.com/mihai2096/personalwebsite">
- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=Genetic-Algorithms&theme=dark"  />
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=personalwebsite&theme=dark"  />
 </a>
 <a href="https://github.com/mihai2096/StampsWebsite">
- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=Genetic-Algorithms&theme=dark"  />
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=StampsWebsite&theme=dark"  />
 </a>
 <a href="https://github.com/mihai2096/ArduinoDisplayDistance">
- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=Genetic-Algorithms&theme=dark"  />
+ <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=ArduinoDisplayDistance&theme=dark"  />
 </a>
 <a href="https://github.com/mihai2096/ChessGame">
      <img src = "https://github-readme-stats.vercel.app/api/pin/?username=mihaiciobotaru&repo=ChessGame&theme=dark" align = "center" />
