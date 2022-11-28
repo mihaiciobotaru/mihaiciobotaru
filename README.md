@@ -1,6 +1,6 @@
 <h1>Hi, welcome to my profile 👋</h1>
 
-- 💻 Currently working for eJump Media as Junior Web Developer!
+- 💻 Currently working for eJump Media as Junior Backend Developer!
 - 🏫 I’m an university student, third year, at Universitatea Alexandru Ioan Cuza Iasi, Facultatea de Informatica.
 - 🌱 I’m currently learning more about Artificial Intelligence from a Harvard course.
 - 💪 I’ve worked mostly with C, C++, Java, PLSQL, Python, HTML, PHP, CSS, SFML, TailwindCSS.
