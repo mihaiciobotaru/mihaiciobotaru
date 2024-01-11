@@ -1,13 +1,13 @@
 <h1>Hi, welcome to my profile 👋</h1>
 
-- 💻 Currently working for eJump Media as Junior Backend Developer!
-- 🏫 I’m an university student, third year, at Universitatea Alexandru Ioan Cuza Iasi, Facultatea de Informatica.
-- 🌱 I’m currently learning more about Artificial Intelligence from a Harvard course.
-- 💪 I’ve worked mostly with C, C++, Java, PLSQL, Python, HTML, PHP, CSS, SFML, TailwindCSS.
-- 😄 I’m familiar with React, Javascript, ThreeJS, genetic and heuristic search algorithms. 
-- 📚 I’m looking forward to learn more about AI, game development, arduino and computer networking.
-- 📫 My contact email: contact@mihaiciobotaru.com .
-- 👯 My personal website: www.mihaiciobotaru.com .
+- 💻 Currently working for eJump Media as Backend Developer!
+- 🏫 I’ve finished my studies in computer science at Universitatea Alexandru Ioan Cuza Iasi, Facultatea de Informatica.
+- 🌱 In my spare time, I am currently learning more about Rust, Artificial Intelligence and Web Development.
+- 💪 I’ve worked mostly with PHP, Python, MySQL, shell scripting, Java, C++, HTML, CSS
+- 😄 I’m familiar with React, Javascript, ThreeJS and p5.js also a fan of artificial intelligence. 
+- 📚 I’m looking forward to learn more about backend technologies and AI!
+- 📫 My contact email: mihai2096@gmail.com .
+- 👯 My personal website: www.mihaiciobotaru.com (no longer up) .
 - ⚡ Fun fact: I'm a certified accountant.
 
     <img src = "Assets/mihaiwebsitemockup.png" width = "auto" height = "250px" style="" />
