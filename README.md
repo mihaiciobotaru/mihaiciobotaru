@@ -1,6 +1,6 @@
 <h1>Hi, welcome to my profile 👋</h1>
 
-- 💻 Currently working for eJump Media as Backend Developer!
+- 💻 Currently working for London Stock Exchange Group as a Software Engineer!
 - 🏫 I’ve finished my studies in computer science at Universitatea Alexandru Ioan Cuza Iasi, Facultatea de Informatica.
 - 🌱 In my spare time, I am currently learning more about Rust, Artificial Intelligence and Web Development.
 - 💪 I’ve worked mostly with PHP, Python, MySQL, shell scripting, Java, C++, HTML, CSS
